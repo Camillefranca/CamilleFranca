@@ -15,7 +15,8 @@
   <img align="center" alt="Mille-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Mille-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">  
   <img align="center" alt="Mille-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">  
-  <img align="center" alt="Mille-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">  
+  <img align="center" alt="Mille-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+  <img align="right" alt="Mille-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/profile_images/1468292082980823042/TRCplnBJ_400x400.jpg">
 </div>
   
   ##
