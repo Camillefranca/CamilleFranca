@@ -22,6 +22,6 @@
   <a href = "mailto:camillefranca19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/camille-fran%C3%A7a-dos-santos-3b1a60184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-      ![Snake animation](https://github.com/Camillefranca/Camillefranca/blob/output/github-contribution-grid-snake.svg)
+      ![Snake animation](https://github.com/camillefranca/camillefranca/blob/output/github-contribution-grid-snake.svg)
   </div>  
 
