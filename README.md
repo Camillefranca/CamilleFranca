@@ -27,4 +27,4 @@
     
   </div>  
 
-  ![Snake animation](https://github.com/camillefranca/camillefranca/blob/output/github-contribution-grid-snake.svg)
+ 
